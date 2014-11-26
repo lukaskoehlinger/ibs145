@@ -1,15 +1,3 @@
-.nav a {
-  color: #5a5a5a;
-  font-size: 11px;
-  font-weight: bold;
-  padding: 14px 10px;
-  text-transform: uppercase;
-}
-
-.nav li {
-  display: inline;
-}
-
 .jumbotron {
   background-image:url("imgs/lampe.jpg");
   height: 500px;
@@ -34,31 +22,40 @@
   color: #fff;
 }
 
-.learn-more {
+.Anhang{
   background-color: #f7f7f7;
 }
 
-.learn-more h3 {
+.Anhang h3 {
   font-family: 'Shift', sans-serif;
-  font-size: 18px;
   font-weight: bold;
 }
 
-.learn-more a {
+.Anhang a {
   color: #00b0ff;
 }
 
-.neighborhood-guides{
+.Allgemeines h2 {
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.Allgemeines h3 {
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  font-size:100%;
+}
+
+.Allgemeines{
     background-color: #efefef;
     border-bottom: 1px solid #dbdbdb;
 }
 
-.neighborhood-guides h2{
+.Allgemeines h2{
     color: #393c3d;
-    font-size: 24px;
 }
 
-.neighborhood-guides p{
+.Allgemeines p{
     font-size: 15px;
     margin-bottom: 13px;
 }
